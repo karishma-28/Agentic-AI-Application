@@ -20,3 +20,19 @@ The **Agentic-AI-Application** is a Python-based AI-powered application designed
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Agentic-AI-Application.git
+
+
+
+**Usage**
+
+Run the application:
+    ```bash
+    python agentic_ai_application.py
+
+
+**Dependencies**
+
+**pandas**: For data processing.
+**scikit-learn**: For machine learning algorithms.
+**nltk**: For natural language processing.
+flask: For creating web-based interfaces (if applicable).
